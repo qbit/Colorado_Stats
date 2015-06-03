@@ -11,7 +11,7 @@ So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [
 
 [Source for 2011-colorado-stats.csv](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table8statecuts/table_8_offenses_known_to_law_enforcement_colorado_by_city_2011.xls)
 
-# Average Murders / homicides per 100k people
+# Average murders / homicides per 100k people
 
 |Average murder / 100k people | City |
 |----:|-----|
