@@ -1,5 +1,9 @@
 | Murder or manslaughter per 100k people | City |
 | ------------- |-----:|
+|44.4939|Monte Vista|
+|15.4967|Avon|
+|14.709|Commerce City|
+|10.6872|Craig|
 |9.25305|Littleton|
 |8.60657|Aurora|
 |8.41326|Federal Heights|
@@ -10,13 +14,9 @@
 |6.20481|Denver|
 |5.77868|Durango|
 |5.18834|Montrose|
-|44.4939|Monte Vista|
 |4.1639|Colorado Springs|
 |3.36044|Grand Junction|
 |2.69585|Northglenn|
-|15.4967|Avon|
-|14.709|Commerce City|
-|10.6872|Craig|
 |1.99848|Castle Rock|
 |1.82713|Westminster|
 |1.71984|Broomfield|
