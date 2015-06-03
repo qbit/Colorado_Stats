@@ -15,27 +15,27 @@ So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [
 
 |Average murder / 100k people | City |
 |----:|-----|
-|258.732|La Veta|
-|53.7288|Rifle|
-|23.6128|Cortez|
-|21.8914|Breckenridge|
-|19.1571|Manitou Springs|
-|19.0459|Edgewater|
-|16.9952|Gunnison|
-|14.2389|La Junta|
-|12.8189|Lamar|
-|6.79001|Commerce City|
-|6.53864|Denver|
-|6.2732|Aurora|
-|5.39232|Pueblo|
-|5.19083|Golden|
-|5.11155|Colorado Springs|
-|4.67073|Littleton|
-|3.56085|Thornton|
-|3.3573|Grand Junction|
-|2.92074|Lakewood|
-|2.60321|Broomfield|
-|2.56131|Centennial|
-|2.06786|Westminster|
-|1.53345|Greeley|
-|1.43605|Loveland|
+|258.732| La Veta|
+|53.7288| Rifle|
+|21.8914| Breckenridge|
+|19.1571| Manitou Springs|
+|19.132| Edgewater|
+|17.5863| Cortez|
+|16.9952| Gunnison|
+|13.8789| La Junta|
+|12.8189| Lamar|
+|7.35088| Denver|
+|7.02694| Commerce City|
+|7.01625| Pueblo|
+|6.34735| Aurora|
+|5.38356| Golden|
+|5.0267| Grand Junction|
+|5.00373| Colorado Springs|
+|4.22249| Littleton|
+|3.13537| Broomfield|
+|2.78219| Thornton|
+|2.55594| Loveland|
+|2.55025| Lakewood|
+|2.42197| Greeley|
+|2.31921| Westminster|
+|2.1191| Centennial|
