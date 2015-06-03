@@ -24,18 +24,18 @@ So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [
 |16.9952|Gunnison|
 |14.2389|La Junta|
 |12.8189|Lamar|
-|6.2732|Aurora|
+|6.79001|Commerce City|
 |6.53864|Denver|
-|5.11155|Colorado Springs|
-|2.56131|Centennial|
+|6.2732|Aurora|
+|5.39232|Pueblo|
 |5.19083|Golden|
-|2.92074|Lakewood|
+|5.11155|Colorado Springs|
+|4.67073|Littleton|
 |3.56085|Thornton|
 |3.3573|Grand Junction|
-|4.67073|Littleton|
-|1.53345|Greeley|
-|6.79001|Commerce City|
-|5.39232|Pueblo|
-|2.06786|Westminster|
+|2.92074|Lakewood|
 |2.60321|Broomfield|
+|2.56131|Centennial|
+|2.06786|Westminster|
+|1.53345|Greeley|
 |1.43605|Loveland|
