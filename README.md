@@ -3,7 +3,7 @@ Colorado Stats
 
 Collection of stats for the lovely state of Colorado.
 
-So far all the data has been collected from [fbi.gov](http://fbi.gov)
+So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [Uniform Crime Reports](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s)
 
 [Source for 2013-colorado-stats.csv](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-8/table-8-state-cuts/table_8_offenses_known_to_law_enforcement_colorado_by_city_2013.xls)
 
