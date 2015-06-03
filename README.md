@@ -53,7 +53,6 @@ So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [
 |11.7082| Frederick|
 |11.2309| Glenwood Springs|
 |10.6872| Craig|
-|10.4508| Denver3|
 |9.39764| Fort Morgan|
 |8.28204| Federal Heights|
 |7.89476| Durango|
@@ -74,7 +73,6 @@ So far all the data has been collected from [fbi.gov](http://fbi.gov) from the [
 |4.84781| Wheat Ridge|
 |4.4146| Northglenn|
 |4.22249| Littleton|
-|4.16705| Thornton2|
 |3.96807| Lafayette|
 |3.85518| Castle Rock|
 |3.13537| Broomfield|

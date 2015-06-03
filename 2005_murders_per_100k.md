@@ -8,7 +8,7 @@
 |12.3742|Pueblo|
 |12.2309|Delta|
 |11.9531|Cortez|
-|10.4508|Denver3|
+|10.4508|Denver|
 |9.46304|Aurora|
 |6.67735|Montrose|
 |3.49018|Lakewood|

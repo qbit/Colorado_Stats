@@ -12,7 +12,7 @@
 |7.11011|Aurora|
 |5.25155|Broomfield|
 |5.02657|Colorado Springs|
-|4.16705|Thornton2|
+|4.16705|Thornton|
 |4.03002|Boulder|
 |3.83803|Lafayette|
 |3.62408|Denver|
